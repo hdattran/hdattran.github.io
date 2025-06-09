@@ -19,4 +19,6 @@ Before joining academia, I have had extensive experience as a journalist coverin
 
 My other hobbies include Family Guy, the MCU, and annoying my wife with my shenanigans.
 
-[You can check out my most updated CV here!](/files/CV_HDatTran.pdf). Please feel free to [reach out to me via email](mailto:thdat285@gmail.com) for access to my publications that are behind paywalls, as well as with feedback and questions, for media and speaking requests, or to hire me. I truly love what I do and look forward to hearing from you so that we can find ways to help make the world a better place!
+[You can check out my most updated CV here!](/files/CV_HDatTran.pdf)
+
+Please feel free to [reach out to me via email](mailto:thdat285@gmail.com) for access to my publications that are behind paywalls, as well as with feedback and questions, for media and speaking requests, or to hire me. I truly love what I do and look forward to hearing from you so that we can find ways to help make the world a better place!
