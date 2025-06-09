@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-2025 AEJMC Conference (August 7-10, 2025; San Francisco; CA, USA)
+2025 AEJMC Conference (August 7-10, 2025; San Francisco, CA, USA)
 =====
 
 1. **Tran, H. D.**, & Diep, P. P. U. (2025). Using TikTok as a Search Engine: Affordances, Perceived Credibility, and Evaluative Actions.
