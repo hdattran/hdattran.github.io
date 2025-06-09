@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "H. DAT TRAN (PhD, Louisiana State University)"
+title                    : "H. DAT TRAN <br> (PhD, Louisiana State University)"
 title_separator          : "-"
 name                     : &name "H. Dat Tran"
 description              : &description "Assistant Professor at the University of Central Arkansas (UCA) School of Communication"
