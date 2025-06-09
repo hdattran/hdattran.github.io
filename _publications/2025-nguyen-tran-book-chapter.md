@@ -1,7 +1,6 @@
 ---
 title: "Social Media Adoption in Vietnamese Newsrooms: An Explanation from the Diffusion of Innovations Theory"
 collection: publications
-category: manuscripts
 permalink: /publications/2025-nguyen-tran-book-chapter
 excerpt: '<ins>_Keywords_</ins>: journalism, newsroom, digital transformation, social media, social media adoption, diffusion of innovations, Vietnam'
 
