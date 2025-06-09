@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "H. DAT TRAN (PhD, Louisiana State University)"
 title_separator          : "-"
 name                     : &name "H. Dat Tran"
-description              : &description "Assistant Professor at the University of Central Arkansas"
+description              : &description "Assistant Professor at the University of Central Arkansas (UCA) School of Communication"
 url                      : https://hdattran.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hdattran/hdattran.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "image.jpeg"
   name             : "Assistant Professor"
   pronouns         : # example: "she/her"  
-  bio              : "[University of Central Arkansas (UCA) School of Communication] (https://uca.edu/communication/)"
+  bio              : "University of Central Arkansas (UCA) School of Communication"
   location         : "Conway, AR 72035"
   employer         : # Employer
   uri              : # URL
