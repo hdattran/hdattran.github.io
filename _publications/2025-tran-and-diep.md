@@ -1,14 +1,14 @@
 ---
-title: "Social Media Adoption in Vietnamese Newsrooms: An Explanation from the Diffusion of Innovations Theory"
+title: "Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok"
 collection: publications
-permalink: /publications/2025-nguyen-tran-book-chapter
-excerpt: '<ins>_Keywords_</ins>: journalism, newsroom, digital transformation, social media, social media adoption, diffusion of innovations, Vietnam'
+permalink: /publications/2025-tran-and-diep
+excerpt: '<ins>_Keywords_</ins>: self-presentation, social media, social media use, Facebook, LinkedIn, TikTok, self-esteem, uses and gratifications'
 
-date: 2025-06-21
-venue: 'In Phan, V. K., Do, A. D., Nguyen, T. T. H., & Nguyen, K. N. (Eds.), *Digital Convergence in Media: Vietnam and Transnational Perspectives* (pp. 31–58)'
+date: 2025-03-02
+venue: '<ins>*First Monday, 30*</ins>(3)'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.5210/fm.v30i3.13711'
 bibtexurl: ''
-citation: 'Nguyen, C. T., & Tran, H. D. (2025). Social Media Adoption in Vietnamese Newsrooms: An Explanation from the Diffusion of Innovations Theory. In Phan, V. K., Do, A. D., Nguyen, T. T. H., & Nguyen, K. N. (Eds.), *Digital Convergence in Media: Vietnam and Transnational Perspectives* (pp. 31–58). Nomos Publishing House.'
+citation: 'Tran, H. D., & Diep, P. P. U. (2025). Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok. <ins>*First Monday, 30*</ins>(3). https://doi.org/10.5210/fm.v30i3.13711'
 ---
-Social media have increasingly become an integral part of news production and altered the way news organizations operate. In our study, thus, we apply the diffusion of innovation theory (Rogers, 2003) to investigate (1) social media adoption in Vietnamese newsrooms, (2) factors that encourage or discourage journalists to adopt social media, and (3) journalists’ perceptions of social media’s impact on their work, as well as newsroom leadership when it comes to encouraging and assisting journalists in effectively incorporating social media into journalistic practices. Results from 374 survey responses from journalists working in major mainstream news organizations in Vietnam (N = 374) indicate that Vietnamese journalists are more inclined to adopt social media into their journalistic practices if they think that these innovations can offer clear advantages and increase efficiency. On the other hand, social media adoption is discouraged if journalists perceive these platforms as complicating their workflows. In examining how newsrooms may encourage and assist journalists in incorporating social media into their work, we find that policies regarding the adoption of social media in the newsrooms differ across the forms of journalism that the newsrooms practice. Specific policies, such as promoting journalists’ autonomy, organizing training programs, and establishing specialized positions dedicated to social media, may facilitate acceptance of social media adoption among journalists.
+Empirical evidence has suggested a positive correlation between authentic self-presentation on social media and improved mental health and well-being. False self-presentation, conversely, may bring about negative outcomes to subjective and psychological well-being. Our study examines the different selves that users present, as well as factors influencing self-presentation, on social media platforms. Results from 392 survey responses suggest that, first, users present themselves differently on Facebook, LinkedIn, and TikTok; generally, they tend to present their real and ideal selves more than the false selves. Second, users seek significantly different uses and gratifications from different social media platforms (e.g., maintaining existing relationships on Facebook, meeting new people and socializing on LinkedIn, or entertainment purposes on TikTok); nevertheless, education and information is a common motivation for social media use. Third, social media uses and gratifications, social media usage, and self-esteem are influential factors of users’ self-presentation on social media. The dynamics of these influential factors, however, differ across platforms. Theoretical implications, as well as empirical suggestions to enhance the quality of social media interactions, are further discussed.
