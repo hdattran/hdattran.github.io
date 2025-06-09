@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/2025-nguyen-tran-book-chapter
 excerpt: 'Keywords: journalism, newsroom, digital transformation, social media, social media adoption, diffusion of innovations, Vietnam'
 
-date: 2025-06
+date: '2025'
 venue: 'In Phan, V. K., Do, A. D., Nguyen, T. T. H., & Nguyen, K. N. (Eds.), _Digital Convergence in Media: Vietnam and Transnational Perspectives_ (pp. 31–58)'
 slidesurl: ''
 paperurl: ''
