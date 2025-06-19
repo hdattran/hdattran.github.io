@@ -9,7 +9,7 @@ author_profile: true
 Book Chapters
 =====
 
-1. (In Press) Nguyen, C. T., & **Tran, H. D.** (2025). Social Media Adoption in Vietnamese Newsrooms: An Explanation from the Diffusion of Innovations Theory. In Phan, V. K., Do, A. D., Nguyen, T. T. H., & Nguyen, K. N. (Eds.), *Digital Convergence in Media: Vietnam and Transnational Perspectives* (pp. 31–58). Nomos Publishing House.
+1. Nguyen, C. T., & **Tran, H. D.** (2025). Social Media Adoption in Vietnamese Newsrooms: An Explanation from the Diffusion of Innovations Theory. In Phan, V. K., Do, A. D., Nguyen, T. T. H., & Nguyen, K. N. (Eds.), *Digital Convergence in Media: Vietnam and Transnational Perspectives* (pp. 31–58). Nomos Publishing House. [https://doi.org/10.5771/9783748954286-31](https://doi.org/10.5771/9783748954286-31)
 
 
 
