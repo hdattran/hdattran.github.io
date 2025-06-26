@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-[You can check out my most updated CV here!](/files/CV_HDatTran.pdf)
+[Check out my most updated CV here!](/files/CV_HDatTran.pdf)
 
 You can call me Dat. I am a tenure-track assistant professor at the [University of Central Arkansas (UCA) School of Communication](https://uca.edu/communication/) starting Fall 2025, where I teach PRLS 2305: Introduction to Public Relations and PRLS 4316: Special Topics – Public Relations Ethics. My research focuses on political communication, particularly political identity, polarization, and hostility; emerging/new culture/media; social networks and social network analysis; and journalism and media studies, with a special attention on traditionally underrepresented countries in the Global South. A mixed-methods scholar who falls in love with research (and, of course, my wife, who is currently ABD at the Manship School of Mass Communication at Louisiana State University), I often tell people I know that I do research to relax between stressful rounds of Mario Kart (and mean it).
 
