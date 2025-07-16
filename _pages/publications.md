@@ -16,7 +16,7 @@ Book Chapters
 Refereed Journal Articles
 =====
 
-1. (In Press) **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*.
+1. **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*, Online First. [https://doi.org/10.1177/14614448251349427](https://doi.org/10.1177/14614448251349427)
 
 2. **Tran, H. D.**, & Diep, P. P. U. (2025). Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok. *First Monday, 30*(3). [https://doi.org/10.5210/fm.v30i3.13711](https://doi.org/10.5210/fm.v30i3.13711)
 
