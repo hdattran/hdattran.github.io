@@ -16,8 +16,10 @@ Book Chapters
 Refereed Journal Articles
 =====
 
-1. **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*, Online First. [https://doi.org/10.1177/14614448251349427](https://doi.org/10.1177/14614448251349427)
+1. **Tran, H. D.,** Diep, P. P. U., & Kafiliveyjuyeh, S. (In Press). How Single- v. Multiple-Statement(s) Fact-Checking and Partisan Identity Influence Individuals’ Trust in Counter-Attitudinal Political Fact-Checks. _Communication Studies_.
 
-2. **Tran, H. D.**, & Diep, P. P. U. (2025). Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok. *First Monday, 30*(3). [https://doi.org/10.5210/fm.v30i3.13711](https://doi.org/10.5210/fm.v30i3.13711)
+2. **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*, Online First. [https://doi.org/10.1177/14614448251349427](https://doi.org/10.1177/14614448251349427)
 
-3. **Tran, H. D.**, & Diep, P. P. U. (2025). “Gotta Report ‘Em All”: How International News Diversity Impacts Public Knowledge, Perceptions of Foreign Nations and Nationals, and Fear-Based Xenophobia. _News Research Journal, 46_(1), 137–166. [https://doi.org/10.1177/07395329241298967](https://doi.org/10.1177/07395329241298967)
+3. **Tran, H. D.**, & Diep, P. P. U. (2025). Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok. *First Monday, 30*(3). [https://doi.org/10.5210/fm.v30i3.13711](https://doi.org/10.5210/fm.v30i3.13711)
+
+4. **Tran, H. D.**, & Diep, P. P. U. (2025). “Gotta Report ‘Em All”: How International News Diversity Impacts Public Knowledge, Perceptions of Foreign Nations and Nationals, and Fear-Based Xenophobia. _News Research Journal, 46_(1), 137–166. [https://doi.org/10.1177/07395329241298967](https://doi.org/10.1177/07395329241298967)
