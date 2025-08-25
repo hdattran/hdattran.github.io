@@ -11,8 +11,8 @@ main:
     - title: "Latest Publications"
       url: /publications/
 
-    - title: "Upcoming Conference Presentations"
-      url: /presentations/    
+  #  - title: "Upcoming Conference Presentations"
+  #    url: /presentations/    
 
   # - title: "Teaching"
   #   url: /teaching/    
