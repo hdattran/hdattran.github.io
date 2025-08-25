@@ -16,7 +16,7 @@ Book Chapters
 Refereed Journal Articles
 =====
 
-1. **Tran, H. D.,** Diep, P. P. U., & Kafiliveyjuyeh, S. (In Press). How Single- v. Multiple-Statement(s) Fact-Checking and Partisan Identity Influence Individuals’ Trust in Counter-Attitudinal Political Fact-Checks. _Communication Studies_.
+1. **Tran, H. D.,** Diep, P. P. U., & Kafiliveyjuyeh, S. (2025). How Single- vs. Multiple-Statement(s) Fact-Checking and Partisan Identity Influence Individuals’ Trust in Counter-Attitudinal Political Fact-Checks. _Communication Studies_, Online First. [https://doi.org/10.1080/10510974.2025.2544832](https://doi.org/10.1080/10510974.2025.2544832)
 
 2. **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*, Online First. [https://doi.org/10.1177/14614448251349427](https://doi.org/10.1177/14614448251349427)
 
