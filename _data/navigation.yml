@@ -14,8 +14,8 @@ main:
   #  - title: "Upcoming Conference Presentations"
   #    url: /presentations/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+    - title: "Teaching"
+      url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
