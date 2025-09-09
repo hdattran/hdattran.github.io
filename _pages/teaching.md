@@ -11,8 +11,7 @@ author_profile: true
 
 
 
-University of Central Arkansas
-=====
+### University of Central Arkansas
 
 PRLS 2305: Introduction to Public Relations (Fall 2025)
 
@@ -20,8 +19,7 @@ PRLS 4316: Special Topics – Public Relations Ethics (Fall 2025)
 
 
 
-Louisiana State University
-=====
+### Louisiana State University
 
 MC 3504: Introduction to Political Communication (Spring 2025; 4.5/5)
 
@@ -29,8 +27,7 @@ MC 4090: Media Ethics and Social Responsibility (Fall 2023 – Fall 2024; 4.6/5*
 
 
 
-Kansas State University (as Graduate Teaching Assistant)
-=====
+### Kansas State University (as Graduate Teaching Assistant)
 
 MC 316: Data Journalism (Fall 2019 – Spring 2021)
 
