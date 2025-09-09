@@ -6,15 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-Book Chapters
-=====
+### Book Chapters
 
 1. Nguyen, C. T., & **Tran, H. D.** (2025). Social Media Adoption in Vietnamese Newsrooms: An Explanation from the Diffusion of Innovations Theory. In Phan, V. K., Do, A. D., Nguyen, T. T. H., & Nguyen, K. N. (Eds.), *Digital Convergence in Media: Vietnam and Transnational Perspectives* (pp. 31–58). Nomos Publishing House. [https://doi.org/10.5771/9783748954286-31](https://doi.org/10.5771/9783748954286-31)
 
 
 
-Refereed Journal Articles
-=====
+### Refereed Journal Articles
 
 1. **Tran, H. D.,** Diep, P. P. U., & Kafiliveyjuyeh, S. (2025). How Single- vs. Multiple-Statement(s) Fact-Checking and Partisan Identity Influence Individuals’ Trust in Counter-Attitudinal Political Fact-Checks. _Communication Studies_, Online First. [https://doi.org/10.1080/10510974.2025.2544832](https://doi.org/10.1080/10510974.2025.2544832)
 
