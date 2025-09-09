@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-\*\ denotes average course evaluation scores
+\* denotes average course evaluation scores
 
 
 
