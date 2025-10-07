@@ -28,12 +28,12 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #FFFFFF;
-    --global-bg-color                   : #FFFFFF;
-    --global-footer-bg-color            : #FFFFFF;
+    --global-base-color                 : #ffffff;
+    --global-bg-color                   : #ffffff;
+    --global-footer-bg-color            : #ffffff;
     --global-border-color               : #{$dark-gray};
     --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
+    --global-code-background-color      : #ffffff;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
     --global-link-color                 : #52adc8;
