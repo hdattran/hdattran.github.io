@@ -14,12 +14,14 @@ author_profile: true
 
 ### Refereed Journal Articles
 
-1. **Tran, H. D.,** Diep, P. P. U., & Kafiliveyjuyeh, S. (2025). How Single- vs. Multiple-Statement(s) Fact-Checking and Partisan Identity Influence Individuals’ Trust in Counter-Attitudinal Political Fact-Checks. _Communication Studies_, Online First. [https://doi.org/10.1080/10510974.2025.2544832](https://doi.org/10.1080/10510974.2025.2544832)
+1.	**Tran, H. D.**, & Diep, P. P. U. (2025). “To Swipe, or Not to Swipe”: Exploring the Uses and Gratifications of Dating Applications among Young Adults of the LGBTIQ+ Community. _Information, Communication & Society, 28_(13), 2268–2285. [https://doi.org/10.1080/1369118X.2024.2433546](https://doi.org/10.1080/1369118X.2024.2433546)
+   
+2. **Tran, H. D.,** Diep, P. P. U., & Kafiliveyjuyeh, S. (2025). How Single- vs. Multiple-Statement(s) Fact-Checking and Partisan Identity Influence Individuals’ Trust in Counter-Attitudinal Political Fact-Checks. _Communication Studies_, Online First. [https://doi.org/10.1080/10510974.2025.2544832](https://doi.org/10.1080/10510974.2025.2544832)
 
-2. **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*, Online First. [https://doi.org/10.1177/14614448251349427](https://doi.org/10.1177/14614448251349427)
+3. **Tran, H. D.**, Diep, P. P. U., & Booth, H. (2025). National Security vs. Freedom of Speech: How Media Exposure, Personal Values, and Media Framing Influence Non-Users’ Support for A National Ban on TikTok. *New Media & Society*, Online First. [https://doi.org/10.1177/14614448251349427](https://doi.org/10.1177/14614448251349427)
 
-3. Diep, P. P. U, & **Tran, H. D.** (2025). Using TikTok as a Search Engine: Affordances, Perceived Credibility, and Evaluative Actions. _Telematics and Informatics, 102_, 102324. [https://doi.org/10.1016/j.tele.2025.102324](https://doi.org/10.1016/j.tele.2025.102324)
+4. Diep, P. P. U, & **Tran, H. D.** (2025). Using TikTok as a Search Engine: Affordances, Perceived Credibility, and Evaluative Actions. _Telematics and Informatics, 102_, 102324. [https://doi.org/10.1016/j.tele.2025.102324](https://doi.org/10.1016/j.tele.2025.102324)
 
-4. **Tran, H. D.**, & Diep, P. P. U. (2025). Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok. *First Monday, 30*(3). [https://doi.org/10.5210/fm.v30i3.13711](https://doi.org/10.5210/fm.v30i3.13711)
+5. **Tran, H. D.**, & Diep, P. P. U. (2025). Me, Myself, and I: Self-Presentation, Self-Esteem, and Uses and Gratifications on Facebook, LinkedIn, and TikTok. *First Monday, 30*(3). [https://doi.org/10.5210/fm.v30i3.13711](https://doi.org/10.5210/fm.v30i3.13711)
 
-5. **Tran, H. D.**, & Diep, P. P. U. (2025). “Gotta Report ‘Em All”: How International News Diversity Impacts Public Knowledge, Perceptions of Foreign Nations and Nationals, and Fear-Based Xenophobia. _News Research Journal, 46_(1), 137–166. [https://doi.org/10.1177/07395329241298967](https://doi.org/10.1177/07395329241298967)
+6. **Tran, H. D.**, & Diep, P. P. U. (2025). “Gotta Report ‘Em All”: How International News Diversity Impacts Public Knowledge, Perceptions of Foreign Nations and Nationals, and Fear-Based Xenophobia. _News Research Journal, 46_(1), 137–166. [https://doi.org/10.1177/07395329241298967](https://doi.org/10.1177/07395329241298967)
