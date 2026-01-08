@@ -9,15 +9,13 @@ author_profile: true
 
 \* denotes average course evaluation scores
 
-
-
 ### University of Central Arkansas
 
-PRLS 2305: Introduction to Public Relations (Fall 2025 – Spring 2026)
+PRLS 2305: Introduction to Public Relations (Fall 2025 – Spring 2026; 4.12/5*)
 
-PRLS 4316: Special Topics – Public Relations Ethics (Fall 2025 – Spring 2026)
+PRLS 4316: Special Topics – Public Relations Ethics (Fall 2025; 4/5)
 
-PRLS 4316: Special Topics – Predicting Publics (Spring 2026)
+
 
 ### Louisiana State University
 
