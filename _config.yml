@@ -29,7 +29,7 @@ author:
   location         : "Conway, AR 72035"
   employer         : # Employer
   uri              : # URL
-  email            : "<a href="mailto:thdat285@gmail.com" target="_blank" rel="noopener noreferrer">thdat285@gmail.com</a>" 
+  email            : "(mailto:thdat285@gmail.com){:target=\"_blank\" rel=\"noopener\"}"
 
   # Academic websites
   academia         : # URL
