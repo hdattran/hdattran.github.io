@@ -25,11 +25,11 @@ author:
   avatar           : "image.jpeg"
   name             : "Assistant Professor"
   pronouns         : # example: "she/her"  
-  bio              : "University of Central Arkansas (UCA) <br> School of Communication"
+  bio              : "University of Central Arkansas (UCA)<br>School of Communication"
   location         : "Conway, AR 72035"
   employer         : # Employer
   uri              : # URL
-  email            : "htran9@uca.edu" 
+  email            : "<a href="mailto:thdat285@gmail.com" target="_blank" rel="noopener noreferrer">thdat285@gmail.com</a>" 
 
   # Academic websites
   academia         : # URL
