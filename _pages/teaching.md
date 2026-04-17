@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-\* denotes average course evaluation scores
+\* average course evaluation scores
 
 ### University of Central Arkansas
 
