@@ -8,7 +8,7 @@ author_profile: true
 
 ### Refereed Journal Articles
 
-1. 1.	Diep, P. P. U., Nguyen, N. Y. M., **Tran, H. D.**, & Tran, T. V. V. (2026). Trust the State, Trust the Media: Online Media Exposure, Trust in the Government, and Media Trust in Vietnam. _Global Perspectives in Communication, 1_(2). <a href="https://doi.org/10.1093/gpcomm/wpag004" target="_blank" rel="noopener noreferrer">https://doi.org/10.1093/gpcomm/wpag004</a>
+1. Diep, P. P. U., Nguyen, N. Y. M., **Tran, H. D.**, & Tran, T. V. V. (2026). Trust the State, Trust the Media: Online Media Exposure, Trust in the Government, and Media Trust in Vietnam. _Global Perspectives in Communication, 1_(2). <a href="https://doi.org/10.1093/gpcomm/wpag004" target="_blank" rel="noopener noreferrer">https://doi.org/10.1093/gpcomm/wpag004</a>
 
 2. Diep, P. P. U., **Tran, H. D.**, & Nguyen, N. Y. M. (2026). “What in the World!”: Computational and Quantitative Content Analyses of International News Diversity in the US 2018–2022. _Electronic News_, Online First. <a href="https://doi.org/10.1177/19312431261417724" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/19312431261417724</a>
 
