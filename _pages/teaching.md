@@ -11,7 +11,7 @@ author_profile: true
 
 ### University of Central Arkansas
 
-PRLS 2305: Introduction to Public Relations (Fall 2025 – Spring 2026; 4.12/5*)
+PRLS 2305: Introduction to Public Relations (Fall 2025 – Spring 2026; 4.24/5*)
 
 PRLS 4316: Public Relations Ethics (Fall 2025; 4/5)
 
